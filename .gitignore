@@ -1,0 +1,10 @@
+**__pycache__
+**.DS_STORE
+**.idea/
+
+venv
+.env
+cdn/
+
+# research needs
+researches/
